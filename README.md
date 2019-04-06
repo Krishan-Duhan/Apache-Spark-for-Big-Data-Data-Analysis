@@ -39,6 +39,7 @@ User A> <TAB><address of User A><TAB><First Name of User B><TAB><Last Name of
 User B><TAB>
 <address of User B>
 ...
+  
 Q3.
 In this question, you will learn how to solve problems using Apache Spark. Please use
 Apache Spark to derive some statistics from Yelp Dataset.
